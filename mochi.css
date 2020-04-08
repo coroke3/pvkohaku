@@ -1,0 +1,402 @@
+body {
+    margin: 0;
+    padding: 50;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #000000;
+    font-size: 150px;
+      margin: 0px;
+    font-family: 'Noto Sans JP', sans-serif;
+      float: both;
+      
+      
+  }
+  h2{
+      color: #000000;
+    font-size: 50px;
+      margin: 5px;
+          padding: 0.2em 0em;
+      font-weight: bold;
+      border: solid 3px #696969;
+      
+  }
+  
+  size50{
+      font-size: 70px;
+  }
+  
+  size60{
+      font-size: 90px;
+  }
+  
+  size40{
+      font-size: 50px;
+  }
+  
+  size1{
+      font-size: 10px
+  }
+  size10{
+      font-size: 15px;
+  }
+  .yu{
+      padding: 0px;
+      background-color: #f5f5f5;
+      border: 3px solid #696969;
+      color: #000000;
+      margin: 0px;
+      
+  }
+  .uel{
+      text-decoration: none;
+  }
+  
+  
+  h3{
+      color: #000000;
+    font-size: 20px;
+      margin: 10px;
+      font-family: 'Noto Sans JP', sans-serif;
+      text-decoration: none;
+  
+  
+  }
+      
+  
+  
+  
+  
+  
+  nav {
+    background-color: #fafafa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  nav a {
+    color: #000000;
+    text-decoration: none;
+  }
+  nav a:hover {
+    color: #000000;
+  }
+  nav ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .shop {
+    background-color: #fafafa;
+    color: #ffffff;
+    padding: 10px;
+      @media screen and (max-width: 480px) {
+        color: #ffffff;
+        padding: 0px;
+      }
+  }
+  
+  
+  .header {
+    height: 0x;
+    padding-top: 10px;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  
+  .ent{
+        background: #f5f5f5;
+    color: #ffffff;
+    padding: 30px;
+    height: auto;
+      @media screen and (max-width: 480px) {
+        color: #ffffff;
+        padding: 0px;
+      }
+  }
+  
+  
+  .purpose {
+    background: #fafafa;
+    color: #ffffff;
+    padding: 30px;
+    height: auto;
+      @media screen and (max-width: 480px) {
+        color: #ffffff;
+        padding: 0px;
+      }
+  }
+  
+  
+  .rule {
+    background: #f5f5f5;
+    color: #ffffff;
+    padding: 30px;
+    height: auto;
+      @media screen and (max-width: 480px) {
+        color: #ffffff;
+        padding: 0px;
+      }
+  }
+  
+  
+  
+  
+  
+  .Schedule{
+          background: #f5f5f5;
+    color: #ffffff;
+    padding: 30px;
+    height: auto;
+      @media screen and (max-width: 480px) {
+        color: #ffffff;
+        padding: 0px;
+      }
+  }
+  .member{
+      background: #f5f5f5;
+    color: #ffffff;
+    padding: 30px;
+      height: auto;
+      @media screen and (max-width: 480px) {
+        color: #ffffff;
+        padding: 0px;
+      }
+  }
+  .plans{
+      background: #fafafa;
+    color: #ffffff;
+    padding: 30px;
+      height: auto;
+      @media screen and (max-width: 480px) {
+        color: #ffffff;
+        padding: 0px;
+      }
+  }
+  
+  .en{
+          background: #fafafa;
+    color: #ffffff;
+    padding: 30px;
+    height: auto;
+      @media screen and (max-width: 480px) {
+        color: #ffffff;
+        padding: 0px;
+      }
+  }
+  
+  .sns{
+    padding-top: 10px;
+    background-color: #fafafa;
+    text-align: center;
+      padding: 30px;
+    padding-bottom:300px;
+      float: none;
+  }
+  red{
+      color: #ff0000;
+  }
+  
+  
+  #Sel{
+      float:left;
+  }
+  
+  
+      
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    font-size:20px;
+  }
+  
+  
+  footer {
+    text-align: center;
+    color: #ffffff;
+    background: #9a9a9a;
+  }
+  .yohaku{
+      margin-left : 80px;
+      margin-right : 80px;
+  }
+  .ma{
+      font-size: 30px;
+      border-bottom: solid 3px #808080;
+  }
+  
+  .Twitter{
+      color: #00bfff;
+      
+  }
+  .YouTube{
+      color: #ff0000;
+  }
+  
+  .yoko{
+      margin-left: 50px;
+      float:left;
+      width: 20%;
+      height: 10%;
+  }
+  .yokoo{
+      margin-left: 50px;
+      float:left;
+  }
+  .syu{
+      color: #808080;
+      font-size: 30px;
+      margin-left: auto;
+  }
+  .ym{
+      color: #808080;
+      font-size: 30px;
+      margin-left: auto;
+      
+  }
+  .tm{
+      color: #808080;
+      font-size: 30px;
+      margin-left: auto;
+      
+  }
+  
+  mini {
+      font-size: 30px;
+  }
+  
+  .line{
+      width:400px;
+      font-size:24px;
+      color:#fff;
+      background-color:#8fbc8f;
+      border-radius:5px;
+      box-shadow:2px 2px #000000;
+      margin: 10px auto;
+      @media screen and (max-width: 480px) {
+          width:200px;
+          font-size:24px;
+          color:#fff;
+          background-color:red;
+          border-radius:5px;
+          box-shadow:2px 2px #000000;
+          margin: 2px auto;
+      }
+  }
+  .enty{
+      width:400px;
+      font-size:24px;
+      color:#fff;
+      background-color:#808080;
+      border-radius:5px;
+  
+      margin: 10px auto;
+      @media screen and (max-width: 480px) {
+          width:200px;
+          font-size:24px;
+          color:#fff;
+          background-color:red;
+          border-radius:5px;
+          box-shadow:2px 2px #000000;
+          margin: 2px auto;
+      }
+  }
+  
+  .disco{
+        width:400px;
+      font-size:24px;
+      color:#fff;
+      background-color:#4682b4;
+      border-radius:5px;
+      box-shadow:2px 2px #000000;
+      margin: 10px auto;
+      @media screen and (max-width: 480px) {
+          width:200px;
+          font-size:24px;
+          color:#fff;
+          background-color:red;
+          border-radius:5px;
+          box-shadow:2px 2px #000000;
+          margin: 2px auto;
+      }
+      
+  }
+  .sita{
+        text-decoration:none;
+  
+  }
+  pre{
+      text-align: left;
+  
+  
+  
+      box-shadow:2px 2px 2px 2px #000000;
+  
+  }
+  
+  .tube{
+      width:400px;
+      font-size:24px;
+      color:#fff;
+      background-color:red;
+      border-radius:5px;
+      box-shadow:2px 2px #000000;
+      margin: 10px auto;
+      @media screen and (max-width: 480px) {
+          width:200px;
+          font-size:24px;
+          color:#fff;
+          background-color:red;
+          border-radius:5px;
+          box-shadow:2px 2px #000000;
+          margin: 2px auto;
+      }
+  
+  }
+  
+  .twi{
+      width:400px;
+      font-size:24px;
+      color:#000;
+      background-color:#0bffff;
+      border-radius:5px;
+      box-shadow:2px 2px #000000;
+      margin: 10px auto;
+      @media screen and (max-width: 480px) {
+          width:200px;
+          font-size:24px;
+          color:#fff;
+          background-color:red;
+          border-radius:5px;
+          box-shadow:2px 2px #000000;
+          margin: 2px auto;
+      }
+  
+  }
+  
+  .un{
+      width:400px;
+      font-size:24px;
+      color:#fff;
+      background-color:#1e90ff;
+      border-radius:5px;
+      box-shadow:2px 2px #000000;
+      margin: 10px auto;
+      @media screen and (max-width: 480px) {
+          width:200px;
+          font-size:24px;
+          color:#fff;
+          background-color:red;
+          border-radius:5px;
+          box-shadow:2px 2px #000000;
+          margin: 2px auto;
+      }
+  }
